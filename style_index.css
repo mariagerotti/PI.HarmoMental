@@ -1,0 +1,210 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+
+body{
+    padding: 0%;
+    margin: 0%;
+    color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-top: 5%;
+}
+
+h4{
+    margin-top: 5%;
+}
+
+p{
+    text-align: center;
+}
+
+.navbar-brand{
+    font-size: 30px !important;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.nav-link{
+    font-size: 18px;
+    margin: 15px;
+    color: black;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.nav-link:hover{
+    color: lightblue !important;
+}
+
+.active .nav-link{
+    color: lightblue !important;
+}
+
+.conteudo{
+    background-image: url('../projeto integrador/imagens/medico-pc.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titulo{
+    margin-top: 20%;
+    margin-bottom: 3%;
+    font-size: 50px;
+}
+
+.desc-texto{
+    font-size: 14px;
+    padding-left: 14%;
+    color: rgb(0, 0, 0);
+}
+
+.btn-1{
+    margin-left: 38%;
+    margin-top: 10px;
+    margin-bottom: 20%;
+}
+
+.section-1{
+    margin-bottom: 8%;
+}
+
+.section-1 .heading-1{
+    margin-top: 8%;
+}
+
+.section-1 .heading-2{
+    margin-bottom: 5%;
+}
+
+.section-1 .para-1{
+    width: 60%;
+    margin-left: 22%;
+    margin-bottom: 5%;
+}
+
+.card{
+    padding: 10px; 
+}
+
+.section-2 .container-fluid{
+    background-image: url('../projeto integrador/imagens/img cartoon psic.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section-2 .heading-1{
+    margin-top: 20%;
+    margin-bottom: 4%;
+    color: white;
+    width: 80%;
+    
+}
+
+.section-2 .para{
+    width: 80%;
+    margin-bottom: 7%;
+    color: white;
+}
+
+.section-2 .btn{
+    margin-bottom: 15%;
+    width: 25%;
+    padding: 2% 5%;
+}
+
+.section-3{
+    margin-top: 6%;
+}
+
+.section-3 span{
+    color:lightgreen;
+}
+
+.section-3 p{
+    color: gray;
+}
+
+.section-4{
+    margin-top: 8%;
+}
+
+.section-4 .row .col-md-7, .col-md-5{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.section-4 .para-1{
+    margin-top: 7%;
+}
+
+.card-1{
+    width: 60%;
+    padding: 15px;
+    margin-right: 15%;
+    margin-left: 25px;
+}
+
+.form-group-1{
+    width: 50%;
+    padding: 15px;
+    margin-left: 49%;
+}
+
+.btn-info{
+    float: right;
+    margin-top: 1%;
+}
+
+.btn-light{
+    margin-right: 14px;
+}
+
+.texto-area{
+    width: 60%;
+   margin-left: 20%;
+   color: gray;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 5px;
+      }
+  
+      th, td {
+    padding: 10px;
+      }
+  
+      #tabela {width: 100%;
+    background-color: #d9d2e9;
+      }
+  
+      #tabela tr:nth-child(even) {
+    background-color: #d9d2e9;
+      }
+      #tabela tr:nth-child(odd) {
+    background-color: #fff;
+      }
+      #tabela th {
+    color: white;
+    background-color: #2f4253;
+      }
+      .livre {
+          text-align: center;
+      }
+
+.titulo-area{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.form-group{
+    width: 80%;
+    margin-left: 10%;
+    
+}
+

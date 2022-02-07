@@ -45,7 +45,7 @@ p{
 }
 
 .conteudo{
-    background-image: url('../projeto integrador/imagens/medico-pc.jpeg');
+    background-image: url('imagens/medico-pc.jpeg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -91,7 +91,7 @@ p{
 }
 
 .section-2 .container-fluid{
-    background-image: url('../projeto integrador/imagens/img cartoon psic.jpg');
+    background-image: url('imagens/img cartoon psic.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
